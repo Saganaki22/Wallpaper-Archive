@@ -32,7 +32,7 @@ A modern, dark-themed wallpaper gallery featuring over 3,800+ high-quality / 4K 
 
 Browse wallpapers by category using the bottom navigation bar, or search for specific themes using the search bar.
 
-[Open Wallpaper Archive](https://qallpaper-archive.pages.dev/)
+[Open Wallpaper Archive](https://wallpaper-archive.pages.dev/)
 
 ## Wallpaper Sources
 
